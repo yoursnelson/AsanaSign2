@@ -1,0 +1,144 @@
+body {
+margin: 0 auto;
+background: url("img/border.png") repeat-x;
+font-size: 16px;
+font-family: Calibri, Arial, Tahoma;
+text-align: justify;
+}
+
+#page {
+width: 95%;
+margin: 50px auto;
+}
+
+h1 {
+font-size: 40px;
+background: url("img/border-h1.jpg") no-repeat;
+padding: 0 0 0 20px;
+display: block;
+}
+
+h1 a {
+color: #838383;
+text-decoration: none;
+}
+
+h2 {
+color: #494949;
+font-size: 30px;
+margin: 0;
+border-left: 1px solid #838383;
+padding-left: 10px;
+}
+
+#menu {
+float: right;
+margin-top: -60px;
+font-size: 14px;
+font-weight: bold;
+}
+
+#menu li {
+list-style: none;
+float: left;
+display: block;
+padding-left: 10px;
+}
+
+#menu li a {
+border-top: 5px solid #A9A9A9;
+padding: 7px;
+color: #000;
+display: block;
+}
+
+#menu li a:hover {
+border-top: 5px solid #838383;
+text-decoration: none;
+}
+
+a {
+color: #838383;
+text-decoration: none;
+}
+
+a:hover {
+text-decoration: underline;
+}
+
+#right_sidebar 
+{
+margin-top: -20px;
+line-height: 20px;
+width: 400px;
+border-left: 1px dashed #e0e0e0;
+padding: 10px 10px 10px 15px;
+float: right;
+color: #4e4e4e;
+}
+
+#left_sidebar 
+{
+margin-top: -20px;
+line-height: 20px;
+width: 400px;
+border-left: 1px dashed #e0e0e0;
+padding: 10px 10px 10px 15px;
+float: left;
+color: #4e4e4e;
+}
+
+#right_sidebar h3 {
+border-left: 1px solid #838383;
+padding-left: 10px;
+margin: 0 0 14px -16px;
+}
+
+#content {
+line-height: 20px;
+width: 100%;
+float: left;
+padding: 0px;
+}
+
+ul {
+padding: 0;
+margin: 0;
+}
+
+li {
+list-style: none;
+}
+
+a img {
+border: 1px solid #c2c2c2;
+}
+
+a:hover img {
+border: 1px solid #e2e2e2;
+}
+
+.img-left{ display: block; float: left;  margin: 0 5px 5px 0; padding: 3px; border: 1px solid #838383;}
+.img-right{ display: block;  float: right;  margin: 0 0 5px 5px;padding: 3px; border: 1px solid #838383;}
+.img-center{ display: block; margin: 10px auto; padding: 3px; border: 1px solid #838383;}
+
+blockquote {
+border-left: 3px solid #838383;
+background: url("img/blockquote.jpg") repeat-y;
+padding-left: 10px;
+}
+
+#footer {
+background: url("img/footer.png") repeat-x;
+height: 108px;
+clear: both;
+margin-top: -60px;
+text-align: center;
+color: #5b5b5b;
+}
+
+#footer p {
+width: 750px;
+margin: 0 auto;
+padding-top: 60px;
+}

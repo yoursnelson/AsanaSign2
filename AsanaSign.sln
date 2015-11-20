@@ -1,0 +1,35 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 10.00
+# Visual Studio 2008
+Project("{E24C65DC-7377-472B-9ABA-BC803B73C61A}") = "AsanaSign", ".", "{3BA42362-EA48-442A-BF6F-1228D9B3C3F2}"
+	ProjectSection(WebsiteProperties) = preProject
+		TargetFramework = "3.5"
+		Debug.AspNetCompiler.VirtualPath = "/AsanaSign"
+		Debug.AspNetCompiler.PhysicalPath = "..\AsanaSign\"
+		Debug.AspNetCompiler.TargetPath = "PrecompiledWeb\AsanaSign\"
+		Debug.AspNetCompiler.Updateable = "true"
+		Debug.AspNetCompiler.ForceOverwrite = "true"
+		Debug.AspNetCompiler.FixedNames = "false"
+		Debug.AspNetCompiler.Debug = "True"
+		Release.AspNetCompiler.VirtualPath = "/AsanaSign"
+		Release.AspNetCompiler.PhysicalPath = "..\AsanaSign\"
+		Release.AspNetCompiler.TargetPath = "PrecompiledWeb\AsanaSign\"
+		Release.AspNetCompiler.Updateable = "true"
+		Release.AspNetCompiler.ForceOverwrite = "true"
+		Release.AspNetCompiler.FixedNames = "false"
+		Release.AspNetCompiler.Debug = "False"
+		VWDPort = "61984"
+	EndProjectSection
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|.NET = Debug|.NET
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3BA42362-EA48-442A-BF6F-1228D9B3C3F2}.Debug|.NET.ActiveCfg = Debug|.NET
+		{3BA42362-EA48-442A-BF6F-1228D9B3C3F2}.Debug|.NET.Build.0 = Debug|.NET
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
